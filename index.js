@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'But the compassionate feelings of a friend of her father gave a change to her destiny.',
   'example3':
-      'Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body',
+      'Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body'
   'example4':
       'Has this fellow no feeling of his business, that he sings at grave-making?'
 };
