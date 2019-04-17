@@ -10,9 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'But the compassionate feelings of a friend of her father gave a change to her destiny.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body'
+  'example4':
+      'Has this fellow no feeling of his business, that he sings at grave-making?'
 };
 
 function status(statusText) {
